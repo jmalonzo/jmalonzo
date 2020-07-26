@@ -21,12 +21,7 @@ I'm a [Senior Dev](https://linkedin.com/in/jmalonzo) at [Taguchi](http://www.tag
 
 My [PGP public key](https://keybase.io/jmalonzo)
 
-### Latest
+### Notes
 
-- [Switching to Twitter app](https://janalonzo.com/post/pwa-or-native-twitter.html)
-- [Shoot RAW and JPEG](https://janalonzo.com/post/why-shoot-raw-jpeg.html)
-- [Running](https://janalonzo.com/post/running.html)
-- [Moving on from Pixel to Note](https://janalonzo.com/post/pixel-samsung.html)
-- [Living in Jakarta](https://janalonzo.com/post/living-in-jakarta.html)
 - [Webpack 4 bundle sizes](https://janalonzo.com/post/webpack4-bundle-sizes.html)
 - [Vue component registration](https://janalonzo.com/post/vuejs-component-registrations.html)
