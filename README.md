@@ -21,7 +21,3 @@ I'm a [Senior Dev](https://linkedin.com/in/jmalonzo) at [Taguchi](http://www.tag
 
 My [PGP public key](https://keys.openpgp.org/search?q=jmalonzo%40gmail.com)
 
-### Notes
-
-- [Webpack 4 bundle sizes](https://janalonzo.com/post/webpack4-bundle-sizes.html)
-- [Vue component registration](https://janalonzo.com/post/vuejs-component-registrations.html)
