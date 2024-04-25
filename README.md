@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hello :wave:
 
-I'm Jan Michael and I love [tech](https://github.com/jmalonzo), [photography, and travel](https://instagram.com/jmalonzo).
+I'm Jan and I dabble in [tech](https://github.com/jmalonzo), [photography, and travel](https://moments.hidupmanis.studio/@jmalonzo).
 
 I'm a [Senior Dev](https://linkedin.com/in/jmalonzo) at [Taguchi](http://www.taguchi.com.au).
 
